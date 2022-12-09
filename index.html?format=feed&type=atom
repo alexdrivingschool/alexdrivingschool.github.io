@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Alex-Driving-School.com - Home</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://alexdrivingschoolnicosia.com"/>
+	<id>http://alexdrivingschoolnicosia.com/</id>
+	<updated>2022-12-07T10:35:58+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://alexdrivingschoolnicosia.com/?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Welcome to Alex Driving School!</title>
+		<link rel="alternate" type="text/html" href="http://alexdrivingschoolnicosia.com/component/content/article/9-uncategorised/69-welcome-to-alex-driving-school.html"/>
+		<published>2010-11-10T04:06:36+00:00</published>
+		<updated>2010-11-10T04:06:36+00:00</updated>
+		<id>http://alexdrivingschoolnicosia.com/component/content/article/9-uncategorised/69-welcome-to-alex-driving-school.html</id>
+		<author>
+			<name>Super User</name>
+			<email>info@alex-driving-school.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt;Welcome and thank you for visiting my website!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 18pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;SPECIAL OFFER: &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Lessons in Nicosia are now €20 per hour!&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt;UK APPROVED DRIVING INSTRUCTOR (ADI) teaching in the Nicosia area.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt;Lessons are offered in NATIVE ENGLISH or GREEK languages.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt;Lessons conducted in a PROFESSIONAL and VERY SAFE MANNER.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt;Lesson duration either WHOLE 1-HOUR, 1½ HOUR or 2-HOUR sessions.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt;HIGH PASS RATE for ALL NATIONALITIES.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt;Reasons for choosing ALEX DRIVING SCHOOL:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt;A qualified UK Instructors certification is considered to be one of the highest teaching standards in the world.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt;My unique methods and skills will ensure all students receive the best training and knowledge so they are very well prepared for their test and once obtaining their license will feel very secure and confident on the road for the rest of their lives.&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt;Welcome and thank you for visiting my website!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 18pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;SPECIAL OFFER: &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Lessons in Nicosia are now €20 per hour!&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt;UK APPROVED DRIVING INSTRUCTOR (ADI) teaching in the Nicosia area.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt;Lessons are offered in NATIVE ENGLISH or GREEK languages.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt;Lessons conducted in a PROFESSIONAL and VERY SAFE MANNER.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt;Lesson duration either WHOLE 1-HOUR, 1½ HOUR or 2-HOUR sessions.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt;HIGH PASS RATE for ALL NATIONALITIES.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt;Reasons for choosing ALEX DRIVING SCHOOL:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt;A qualified UK Instructors certification is considered to be one of the highest teaching standards in the world.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt;My unique methods and skills will ensure all students receive the best training and knowledge so they are very well prepared for their test and once obtaining their license will feel very secure and confident on the road for the rest of their lives.&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+		<category term="Featured" />
+		<category term="Uncategorised" />
+	</entry>
+</feed>
